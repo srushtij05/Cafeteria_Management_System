@@ -25,4 +25,5 @@ b. Ask customer’s feedback about the café.
 c. Update prices and dishes in the menu.
 
 **CONCLUSION**
+
 The cafeteria management system developed in Java offers significant benefits to both customers and managers. For customers, it provides a user-friendly interface to easily browse menus, place orders, and make payments, enhancing convenience and efficiency by providing option of cancellation if order is not prepared. For managers, it tracks sales, and provides real-time insights, enabling better decision-making, improved operational efficiency, and enhanced customer satisfaction. Overall, the Java-based cafeteria management system optimizes the dining experience for both customers and managers, fostering a seamless and efficient cafeteria environment.
